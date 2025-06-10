@@ -7,3 +7,6 @@ qrc_*
 .qmake.stash
 .vscode
 .qtc_clangd
+
+# direnv detritus
+/.direnv/
